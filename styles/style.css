@@ -1,0 +1,54 @@
+
+/* ------ basic style ----- */
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.background{
+    background-image: url("../images/banner/banner2.png");
+    width: 1665px;
+    height: 809px;
+   
+}
+
+.header-info {
+     direction: rtl;
+     padding-left: 800px;
+     padding-top: 200px;
+     padding-right: 210px;
+     padding-bottom: 400px;
+}
+
+.heading-style{
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 10px;
+}
+
+.paragraph-style{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 18px;
+}
+
+
+.img{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 218;
+    top: 861px;
+}
+
+.contact {
+    background-color: #fd6e05;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 5px;
+}
+
